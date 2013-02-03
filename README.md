@@ -1,3 +1,3 @@
-LeapMotionP5
+Based on Leapmotion and LeapMotionP5 libraries.
 
-This version does not crash when using the LEAP Motion in Processing under Windows.
+Works on Mac and Windows, works in Processing 1.5, doesn't crash when used with OpenGL.
